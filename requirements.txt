@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+Pillow>=10
+requests>=2.31
+cryptography>=42
+gTTS>=2.5
+SpeechRecognition>=3.10
